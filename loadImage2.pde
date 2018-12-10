@@ -7,8 +7,8 @@ PImage ooo1;
    size(700,500);
    zoo = loadImage ("zoo.jpg");
    ooo1 = loadImage ("ooo1.jpg");
-   
-   image(zoo,0,0,700,500);
+   frameRate(5);
+   image(zoo,0,0);
  
    
  }
