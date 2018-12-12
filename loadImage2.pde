@@ -1,4 +1,4 @@
-///* @pjs preload="zoo.jpg"; *
+
 
 //add loadImage2 code here
 PImage zoo;
